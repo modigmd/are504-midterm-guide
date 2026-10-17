@@ -1,8 +1,10 @@
 # ARE 504 midterm field guide
 
-Open **[index.html](index.html)** in a current browser. The single file works offline, with equations rendered from LaTeX into embedded MathML. No account, installation, fonts or CDN connection is required. The layout adapts to phones and laptops and follows the device’s light/dark appearance.
+Open **[index.html](index.html)** in a current browser. The single file works offline, with equations rendered from LaTeX into embedded MathML. No account, installation, fonts or CDN connection is required. The layout adapts to phones and laptops. Light mode is the default; the Appearance menu offers Light, Dark and System and remembers the choice.
 
 The guide covers the supplied English KFUPM ARE 504 lectures, Topics 2–5: investigating existing conditions; building envelope loads; insulation and thermal bridges; and passive/active renovation strategies. It includes explanations, worked calculations, seven interactive diagrams, original practice questions with answers, a formula sheet, and a browser-saved revision checklist. Use **Print / save PDF** for a version with the answer disclosures expanded.
+
+**[Take the mock midterm](https://modigmd.github.io/are504-midterm-guide/mock-midterm.html)** for Topics 2–5: 10 original theory/calculation questions, 100 marks, with worked answers hidden until you finish. Calculation answers are checked automatically and theory uses self-marking rubrics. Drafts and completed attempts are stored only in your browser. Download both HTML files to use the guide and exam offline.
 
 Exam priorities are inferred from the lectures and exercises. They are not confirmed instructor coverage. Topic 1 was not supplied. The accidentally attached Arabic mathematics book is excluded.
 
